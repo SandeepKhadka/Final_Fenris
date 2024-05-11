@@ -80,57 +80,8 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/splash.png
-    - assets/o1.png
-    - assets/ob2.png
-    - assets/ob3.png
-    - assets/bg.png
-    - assets/l.png
-    - assets/p.png
-    - assets/done.png
-    - assets/c1.png
-    - assets/c4.png
-    - assets/c5.png
-    - assets/df.png
-    - assets/avacado.png
-    - assets/durian.png
-    - assets/kiwano.png
-    - assets/lotus.png
-    - assets/mangosteen.png
-    - assets/7.png
-    - assets/romanesco.png
-    - assets/tatusi.png
-    - assets/starfruit.png
-    - assets/5.png
-    - assets/apple.png
-    - assets/spinach.png
-    - assets/vegetables.png
-    - assets/fruits.png
-    - assets/dairy.png
-    - assets/exoti.png
-    - assets/pjk.png
-    - assets/black.png
-    - assets/green.png
-    - assets/watermelon.png
-    - assets/Banana.png
-    - assets/cherry.png
-    - assets/cocunut.png
-    - assets/Grapes.png
-    - assets/Mango.png
-    - assets/papaya.png
-    - assets/peaches.png
-    - assets/Pears.png
-    - assets/strawberry.png
-    - assets/esewa1.png
-    - assets/edit.png
-    - assets/order.png
-
-
-
     - assets/images/
     - assets/anim/
-    - assets/svg/
-    - assets/gif/
    
     
 

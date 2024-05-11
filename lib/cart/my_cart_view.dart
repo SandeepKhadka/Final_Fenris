@@ -135,6 +135,7 @@ class _MyCartState extends State<MyCart> {
                                     onPressed: () {
                                       _.removeFromCart(cartItem);
                                       _.update();
+                                       setState(() {});
                                     },
                                   ),
                                 ],
